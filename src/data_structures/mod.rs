@@ -3,3 +3,4 @@ pub mod list;
 pub mod set;
 pub mod string;
 pub mod zset;
+pub mod table;
